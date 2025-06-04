@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main
+public class stack
 {
 	public static void main(String[] args) {
 		Stack<Integer>stack=new Stack<>();
